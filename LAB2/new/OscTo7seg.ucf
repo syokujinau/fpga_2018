@@ -1,0 +1,24 @@
+#PACE: Start of Constraints extracted by PACE from the Design
+NET "seg7_decode<5>" LOC = "K17"  ;
+NET "seg7_decode<4>" LOC = "K18"  ;
+NET "seg7_decode<3>" LOC = "K20"  ;
+NET "seg7_decode<2>" LOC = "K19"  ;
+NET "seg7_decode<1>" LOC = "K22"  ;
+NET "seg7_decode<0>" LOC = "L17"  ;
+NET "dp" LOC = "G22" ;
+NET "g" LOC = "H18"  ;
+NET "f" LOC = "H19"  ;
+NET "e" LOC = "H20"  ;
+NET "d" LOC = "J17"  ;
+NET "clk" LOC = "A12"  ;
+NET "c" LOC = "J19"  ;
+NET "b" LOC = "J20"  ;
+NET "a" LOC = "J22"  ;
+
+
+NET "button<0>" LOC = "A18"	;
+NET "button<1>" LOC = "B18"	;
+NET "button<2>" LOC = "A20"	;
+NET "button<3>" LOC = "A21"	;
+
+NET "rst" LOC = "D17" ;

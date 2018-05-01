@@ -1,0 +1,17 @@
+NET "out<11>" LOC = "E20"	;
+NET "out<10>" LOC = "E22"	;
+NET "out<9>" LOC = "F18"	;
+NET "out<8>" LOC = "F19"	;
+NET "out<7>" LOC = "F20"	;
+NET "out<6>" LOC = "F21"	;
+NET "out<5>" LOC = "F22"	;
+NET "out<4>" LOC = "G19"	;
+NET "out<3>" LOC = "G20"	;
+NET "out<2>" LOC = "B14"	;
+NET "out<1>" LOC = "A14"	;
+NET "out<0>" LOC = "G13"	;
+
+NET "inpulse<0>" LOC = "A18"	;
+NET "inpulse<1>" LOC = "B18"	;
+NET "inpulse<2>" LOC = "A20"	;
+NET "inpulse<3>" LOC = "A21"	;
