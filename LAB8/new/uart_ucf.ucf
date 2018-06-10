@@ -1,0 +1,4 @@
+ NET "i_CLK_50M"  LOC ="A12";
+ NET "nRST"   LOC ="B21";
+ NET "TXD"  LOC ="P22";
+ //NET "RXD"  LOC ="P21";

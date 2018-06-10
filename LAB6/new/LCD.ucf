@@ -1,0 +1,13 @@
+net "LCD_DATA[7]"  loc = "N22";
+net "LCD_DATA[6]"  loc = "N20";
+net "LCD_DATA[5]"  loc = "N19";
+net "LCD_DATA[4]"  loc = "M22";
+net "LCD_DATA[3]"  loc = "M21";
+net "LCD_DATA[2]"  loc = "M20";
+net "LCD_DATA[1]"  loc = "M19";
+net "LCD_DATA[0]"  loc = "L22";
+net "LCD_EN"   loc = "L20";
+net "LCD_RS"   loc = "L19";
+net "LCD_RW"   loc = "K21";
+net "clk"   loc = "A12";
+net "nrst"  loc = "B21";

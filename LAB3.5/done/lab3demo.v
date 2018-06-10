@@ -57,8 +57,8 @@ begin
 	end
 	
 end
-always @(*)
-begin
+
+always @(*) begin
 	case({KPD_R,KPD_C})
 	7'b011_0111:begin out_r = 12'b000000000001; seg7_display = 8'b11111100;  end //0
 	7'b110_1110:begin out_r = 12'b000000000010; seg7_display = 8'b01100000;  end //1

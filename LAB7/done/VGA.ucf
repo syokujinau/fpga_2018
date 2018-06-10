@@ -1,0 +1,13 @@
+# VGA ping
+NET "VGA_RGB<2>"  	LOC = D21 ;
+NET "VGA_RGB<1>"  	LOC = D19 ;
+NET "VGA_RGB<0>"  	LOC = C20 ;
+NET "VGA_VS" 	LOC = D20 ;
+NET "VGA_HS" 	LOC = D22 ;
+NET "CLOCK_50" LOC = A12 ;
+NET "RST_N" 	LOC = B21 ;
+
+NET "inpulse<0>" LOC = "A18"	;
+NET "inpulse<1>" LOC = "B18"	;
+NET "inpulse<2>" LOC = "A20"	;
+NET "inpulse<3>" LOC = "A21"	;

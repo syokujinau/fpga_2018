@@ -1,6 +1,6 @@
 NET "clk"  LOC = "A12"  ;
 NET "rst"  LOC = "B21"  ;
-/*
+
 NET "out_led[0]"  LOC = "G13"  ;
 NET "out_led[1]"  LOC = "A14"  ;
 NET "out_led[2]"  LOC = "B14"  ;
@@ -13,7 +13,7 @@ NET "out_led[8]"  LOC = "F19"  ;
 NET "out_led[9]"  LOC = "F18"  ;
 NET "out_led[10]"  LOC = "E22"  ;
 NET "out_led[11]"  LOC = "E20"  ;
-*/
+
 
 NET "KPD_R[2]"  LOC = "E14"  ;
 NET "KPD_R[1]"  LOC = "D14"  ;

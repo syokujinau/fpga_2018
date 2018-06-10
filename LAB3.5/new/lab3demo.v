@@ -1,4 +1,4 @@
-module 2018lab3demo(out_led,KPD_R,seg7_decode,a,b,c,d,e,f,g,dp,KPD_C,clk,rst);
+module lab3demo(out_led,KPD_R,seg7_decode,a,b,c,d,e,f,g,dp,KPD_C,clk,rst);
 
 output [11:0]out_led;
 output reg [2:0]KPD_R;
